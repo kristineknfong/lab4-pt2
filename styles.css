@@ -1,10 +1,11 @@
 .divblack{
     background-color: black;
-    max-height: 60%;
-    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
 }
 .if{
-    color:white;
+    max-height: 40%;
+    margin-top: 30px;
 }
 .divblack p1,p2{
     margin-left:440px;
@@ -17,8 +18,32 @@
     max-height: 40%;
     max-width: 100%;
 }
-.divinfo #adobe{
-    float:right;  
+h2{
+    color: orange;
+    margin-bottom: 0px;
+    line-height: .8em;
+    max-width:47%;
+}
+hr{
+    margin-top: 0px;
+}
+h3{
+    color:burlywood;
+    margin-left: 200px;
+    width:21%;
+}
+.adobe{
+    float:right;
+    margin-right: 10%;
+    padding: 10px;
+    width:160px;
+    height: 7%;
+    background-color: black;
+    color: white;    
+}
+.adobe p{
+    float: right;
+    padding: 10px
 }
 .divinfo ul{
     
