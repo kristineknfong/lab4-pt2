@@ -1,0 +1,22 @@
+.divblack{
+    background-color: black;
+    max-height: 60%;
+    max-width: 100%;
+}
+.divblack p1,p2{
+    margin-left:440px;
+    color:white;
+}
+.divblack p2{
+    margin-left:500px;
+}
+.divinfo{
+    max-height: 40%;
+    max-width: 100%;
+}
+.divinfo #adobe{
+    float:right;  
+}
+.divinfo ul{
+    
+}
