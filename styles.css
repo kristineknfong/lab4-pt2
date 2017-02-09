@@ -12,12 +12,21 @@
 }
 #p1{
     color: white;
-    margin-left: 70px;
-    margin-right:10px;
+    margin-left: 30%;
+    margin-top: 20%;
+    margin-bottom: -30%;
+    line-height: 1em;
+    font-size: 18px;
+    padding-top: 120px;
 }
 #p2{
     color:white;
-    
+    float: right;
+    margin-right: 42%;
+    margin-top: 25%;
+    line-height: 1em;
+    font-size: 18px;
+    padding-top: 60px;
 }
 
 .divinfo{
