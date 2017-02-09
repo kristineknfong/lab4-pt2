@@ -1,20 +1,20 @@
 .divblack{
     background-color: black;
-    height: 60%;
+    height: 50%;
     width: 100%;
     margin-bottom: 30px;
 }
 .if{
-    margin-top: 5%;
+    margin-top: 2%;
     height: 100%;
     width:40%;
     margin-bottom: -56%; 
 }
 #p1{
     color: white;
-    margin-left: 30%;
-    margin-top: 20%;
-    margin-bottom: -30%;
+    margin-left: 35%;
+    margin-top: 10%;
+    margin-bottom: -35%;
     line-height: 1em;
     font-size: 18px;
     padding-top: 120px;
@@ -22,8 +22,8 @@
 #p2{
     color:white;
     float: right;
-    margin-right: 42%;
-    margin-top: 25%;
+    margin-right: 35%;
+    margin-top: 22%;
     line-height: 1em;
     font-size: 18px;
     padding-top: 60px;
@@ -38,9 +38,11 @@ h2{
     margin-bottom: 0px;
     line-height: .8em;
     max-width:47%;
+    padding-left: 10px;
 }
 hr{
     margin-top: 0px;
+    color: gray;
 }
 h3{
     color:burlywood;
@@ -55,7 +57,7 @@ h3{
     height: 7%;
     background-color: black;
     color: white;
-    margin-top: -80px; 
+    margin-top: -90px; 
     
 }
 #p3{
@@ -64,6 +66,18 @@ h3{
     font-size: 20px;
     font-family: sans-serif;
 }
-.divinfo ul{
+#p4{
+    float: left;
+    width: 40%;
+    padding-left: 10px;
+}
+#p5{
+    width: 30%;
+    padding-left: 10px;
+    margin-top: 100px;
+    font-weight: bold;
     
+}
+.divinfo ul{
+    margin-left: -10px;
 }
