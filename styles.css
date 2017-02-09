@@ -1,38 +1,46 @@
+/*Kristine Fong*/
+
+/*div for black bkg holding if and saying*/
 .divblack{
     background-color: black;
     height: 50%;
     width: 100%;
     margin-bottom: 30px;
 }
+/*if svg*/
 .if{
     margin-top: 2%;
     height: 100%;
     width:40%;
     margin-bottom: -56%; 
 }
+/*first line of saying*/
 #p1{
     color: white;
     margin-left: 35%;
     margin-top: 10%;
-    margin-bottom: -35%;
+    margin-bottom: -35px;
     line-height: 1em;
     font-size: 18px;
     padding-top: 120px;
+    width:200px;
 }
+/*second line of saying*/
 #p2{
     color:white;
     float: right;
-    margin-right: 35%;
-    margin-top: 22%;
+    margin-top: 5%;
     line-height: 1em;
     font-size: 18px;
-    padding-top: 60px;
+    /*stagger line*/
+    margin-right: 300px;
 }
-
+/*div containing all the info on lower part of pg*/
 .divinfo{
     max-height: 40%;
     max-width: 100%;
 }
+/*orange heading*/
 h1{
     color: #f48c42;
     margin-bottom: 0px;
@@ -40,27 +48,32 @@ h1{
     max-width:47%;
     padding-left: 10px;
 }
+/*line break*/
 hr{
     margin-top: 0px;
     color: gray;
     margin-left: 10px;
+    /*goes behind adobe logo*/
     width: 80%;
 }
+/*sand color website*/
 h2{
     color:#d1bfa3;
     margin-left: 200px;
     margin-bottom: 1%;
     width:21%;
 }
+/*div for adobe logo and image*/
 .adobe{
     float:right;
-    margin-right: 10%;
+    margin-right: 130px;
     padding: 10px;
     width:230px;
     height: 55px;
     background-color: black;
     margin-top: -90px; 
 }
+/*adobe letters*/
 #adobetext{
     font-size: 60px;
     color: white;
@@ -68,17 +81,21 @@ h2{
     margin-top:-53px;
     margin-left:55px;
 }
+/*div for text under adobe logo*/
 #p3{
     font-weight: bold;
     float:right;
-    margin-right:115px;
+    font-size:.8em;
+    margin-right:175px;
     margin-top:1px;
 }
+/*intro p*/
 #p4{
     float: left;
     width: 40%;
     padding-left: 10px;
 }
+/*bold title for list*/
 #p5{
     width: 30%;
     padding-left: 10px;
@@ -86,6 +103,8 @@ h2{
     font-weight: bold;
     
 }
+/*bulleted list*/
 .divinfo ul{
+    /*changes indent of bullets*/
     margin-left: -10px;
 }
